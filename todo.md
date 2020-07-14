@@ -1,0 +1,2 @@
+- What is coredump, how can you handle it?
+- How does network resolution work? 
