@@ -1,0 +1,9 @@
+baseURL = "https://kirugan.github.io/"
+languageCode = "en-us"
+title = "Blog of software wizard"
+theme = "axiom"
+enableEmoji = true
+ignoreFiles = [ "\\.swp$" ]
+
+[params]
+copyrightYear = 2020

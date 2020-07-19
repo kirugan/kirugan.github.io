@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Blog of software wizard</title>
+    <link>https://kirugan.github.io/posts/</link>
+    <description>Recent content in Posts on Blog of software wizard</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Jul 2020 16:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://kirugan.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Growth factor of a slice</title>
+      <link>https://kirugan.github.io/posts/first/</link>
+      <pubDate>Sun, 19 Jul 2020 16:00:00 +0000</pubDate>
+      
+      <guid>https://kirugan.github.io/posts/first/</guid>
+      <description>And here we go this is it
+Ok, it&amp;rsquo;s fine!</description>
+    </item>
+    
+  </channel>
+</rss>

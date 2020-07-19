@@ -1,4 +1,0 @@
-- What is coredump, how can you handle it?
-- How does network resolution work? 
-- Branch predictor, branchless programming, top question on stackoverflow
-- hackers page
