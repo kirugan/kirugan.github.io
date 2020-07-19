@@ -4,6 +4,7 @@ title = "Blog of software wizard"
 theme = "axiom"
 enableEmoji = true
 ignoreFiles = [ "\\.swp$" ]
+publishDir = "docs"
 
 [params]
 copyrightYear = 2020
